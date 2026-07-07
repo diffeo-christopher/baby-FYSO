@@ -2,6 +2,8 @@
 
 Let's learn about railroad optimization! This is a minimal exploration of the **Flat Yard Switching Optimization (FYSO)** problem from the 2024 INFORMS Railway Applications Section Problem Solving Competition.
 
+Everything here is extremely naive. I'm still learning!
+
 This repo contains:
 - A Python simulator + tabular Q-learning agents for Case 1
 - A Julia/JuMP scaffold of the Shunting Action Network (SAN) integer programming model
